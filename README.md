@@ -12,7 +12,9 @@ I'm currently expanding my skills in **Go, Cloud Engineering and DevOps**, mostl
 
 ## 💼 What I work with
 
-Professionally, my work is primarily centered around PHP development:
+Professionally, my work is primarily centered around **PHP development**, working on Moodle-based platforms and Symfony applications.
+
+My day-to-day work includes:
 
 - Development and maintenance of Moodle platforms
 - Moodle plugin development
@@ -20,9 +22,13 @@ Professionally, my work is primarily centered around PHP development:
 - Backend development with PHP
 - SQL and database work
 - Dockerized development environments
-- Application maintenance and debugging
+- Application maintenance, debugging and performance improvements
 
-I'm increasingly interested in the infrastructure surrounding these applications, which is why I'm currently developing my skills in Linux, Docker, networking, cloud platforms and DevOps practices.
+Most of my professional GitHub activity is available on my work account: **[@SergeT24](https://github.com/SergeT24)**.
+
+This includes my contributions at **@Eticeo**, as well as some open-source Moodle-related tools and experiments.
+
+I'm also increasingly interested in the infrastructure surrounding the applications I build. I'm currently expanding my skills in **Linux, Docker, networking, cloud platforms and DevOps practices**, mainly through hands-on projects and experimentation.
 
 ## 🚀 What I'm building
 
